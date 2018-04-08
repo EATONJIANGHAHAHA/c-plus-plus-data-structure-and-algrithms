@@ -43,7 +43,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,7 +56,7 @@
       <file leaf-file-name="stack.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stackAndQueue/unestrictedVectorStack/stack.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1038">
+            <state relative-caret-position="1075">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#134#151#0" expanded="true" />
@@ -68,8 +68,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/container/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="89">
+              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
               <folding>
                 <element signature="e#39#58#0" expanded="true" />
               </folding>
@@ -78,6 +78,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,9 +108,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="548" />
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="549" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -165,11 +168,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523154820413</updated>
       <workItem from="1523154821678" duration="3401000" />
+      <workItem from="1523158353654" duration="17000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3401000" />
+    <option name="totallyTimeSpent" value="3418000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,26 +187,26 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.3286908" />
-      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3481894" />
-      <window_info anchor="right" id="CMake" order="4" visible="true" weight="0.16353887" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.2696335" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3286908" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17962466" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.3286908" />
+      <window_info anchor="right" id="CMake" order="4" visible="true" weight="0.16554959" />
       <window_info anchor="right" id="LuaJ" order="5" sideWeight="0.5010352" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TeamCity" order="4" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="right" id="Structure" order="0" sideWeight="0.49896482" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.2696335" />
+      <window_info anchor="right" id="Structure" order="0" sideWeight="0.49896482" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3286908" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Messages" order="0" visible="true" weight="0.3481894" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +221,33 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stackAndQueue/unestrictedVectorStack/stack.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#134#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/container/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#39#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/intLinkedList/intList.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -265,9 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
           <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
-          <folding>
-            <element signature="e#91#109#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -321,7 +349,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stackAndQueue/unestrictedVectorStack/stack.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1038">
+        <state relative-caret-position="1075">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="e#134#151#0" expanded="true" />
@@ -331,8 +359,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/container/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="89">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
           <folding>
             <element signature="e#39#58#0" expanded="true" />
           </folding>
