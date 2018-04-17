@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/MyCodeLibraries/C++/data_structures_and_algorithms/main.cpp
+/home/eaton/CodeRepositories/C++/C++Console/data_structures_and_algorithms/main.cpp
 iostream
--
-vector
--
-queue
 -
 

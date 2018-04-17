@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/data_structures_and_algorithms.dir/main.cpp.obj"
+  "CMakeFiles/data_structures_and_algorithms.dir/main.cpp.o"
   "data_structures_and_algorithms.pdb"
-  "data_structures_and_algorithms.exe"
-  "data_structures_and_algorithms.exe.manifest"
-  "libdata_structures_and_algorithms.dll.a"
+  "data_structures_and_algorithms"
 )
 
 # Per-language clean rules from dependency scanning.

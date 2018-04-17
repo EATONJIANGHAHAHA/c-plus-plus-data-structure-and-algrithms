@@ -3,9 +3,4 @@ project(data_structures_and_algorithms)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(data_structures_and_algorithms main.cpp
-        intLinkedList
-        stackAndQueue/restrictedArrayStack
-        stackAndQueue/unrestrictedArrayQueue
-        stackAndQueue/unestrictedVectorStack
-        container)
+add_executable(data_structures_and_algorithms main.cpp src)
